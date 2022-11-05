@@ -49,6 +49,10 @@ hr {
   justify-content: space-evenly;
 }
 
+.name{
+  font-size: 1em;
+}
+
 .name,
 .num {
   color: hsl(229, 23%, 23%);
